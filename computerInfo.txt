@@ -1,0 +1,46 @@
+This will contain information about my computer.
+
+Microsoft Windows [Version 10.0.26100.4351]
+(c) Microsoft Corporation. All rights reserved.
+
+C:\Users\It250423_JO\Documents\Work>mkdir A221-PC004
+
+C:\Users\It250423_JO\Documents\Work>dir
+ Volume in drive C is Windows
+ Volume Serial Number is E8E5-932F
+
+ Directory of C:\Users\It250423_JO\Documents\Work
+
+06/25/2025  04:57 PM    <DIR>          .
+06/25/2025  04:47 PM    <DIR>          ..
+06/25/2025  04:57 PM    <DIR>          A221-PC004
+               0 File(s)              0 bytes
+               3 Dir(s)  841,452,081,152 bytes free
+
+C:\Users\It250423_JO\Documents\Work>tree /f
+Folder PATH listing for volume Windows
+Volume serial number is E8E5-932F
+C:.
+└───A221-PC004
+        PC004.txt
+C:\Users\It250423_JO\Documents\Work>systeminfo
+
+Host Name:                     A221-PC004
+OS Name:                       Microsoft Windows 11 Pro
+OS Version:                    10.0.26100 N/A Build 26100
+OS Manufacturer:               Microsoft Corporation
+OS Configuration:              Member Workstation
+OS Build Type:                 Multiprocessor Free
+Registered Owner:              Windows user
+Registered Organization:       PEC
+Total Physical Memory:         32,457 MB
+Available Physical Memory:     24,461 MB
+Virtual Memory: Max Size:      34,505 MB
+Virtual Memory: Available:     25,790 MB
+
+IPv4 Address. . . . . . . . . . . : 192.168.221.45(Preferred)
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Lease Obtained. . . . . . . . . . : Friday, June 13, 2025 9:02:29 AM
+   Lease Expires . . . . . . . . . . : Thursday, June 26, 2025 9:06:31 AM
+   Default Gateway . . . . . . . . . : 192.168.221.1
+   DHCP Server . . . . . . . . . . . : 192.168.221.1
